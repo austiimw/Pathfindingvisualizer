@@ -1,3 +1,7 @@
+# PATH FINDING VISUALIZER!!!
+I’ve done a fun project on visualizing path finding algorithms i.e BFS, DFS, Dikstra’s , A* algorithm.
+
+I built this app in react and below is the interface
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
